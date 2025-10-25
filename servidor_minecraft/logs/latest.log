@@ -1,0 +1,272 @@
+[25Oct2025 00:03:06.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> xaero-waypoint:Shared Location:S:274:-50:3853:4:false:0:Internal-overworld-waypoints
+[25Oct2025 00:28:41.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quackisa> chillaste
+[25Oct2025 00:28:43.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quackisa> cre
+[25Oct2025 00:28:47.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quackisa> deja v
+[25Oct2025 00:29:00.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> oooooooook
+[25Oct2025 00:29:03.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> lo se
+[25Oct2025 00:29:18.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> chillaste ahi tmbn
+[25Oct2025 00:33:08.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> ven
+[25Oct2025 00:33:10.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> niña
+[25Oct2025 00:55:14.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quackisa has made the advancement [Ghost! Ghost! Toast?]
+[25Oct2025 00:55:59.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 has made the advancement [Ghost! Ghost! Toast?]
+[25Oct2025 01:01:26.560] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emilghj[/127.133.91.6:38151] logged in with entity id 206595 at (158.6085589546494, 58.0, 3614.699999988079)
+[25Oct2025 01:01:26.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj joined the game
+[25Oct2025 01:02:00.498] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of emilghj (20)
+[25Oct2025 01:02:00.499] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to emilghj
+[25Oct2025 01:05:58.745] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=595, y=-33, z=3720} BlockPos{x=596, y=-33, z=3720}
+[25Oct2025 01:11:39.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> xaero-waypoint:Shared Location:S:754:-25:3877:2:false:0:Internal-overworld-waypoints
+[25Oct2025 01:14:21.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj has made the advancement [Spray 'n Pray]
+[25Oct2025 01:21:19.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 has made the advancement [The Cutest Predator]
+[25Oct2025 01:24:58.898] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emilghj lost connection: Timed out
+[25Oct2025 01:24:58.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj left the game
+[25Oct2025 01:24:58.929] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emilghj
+[25Oct2025 01:25:22.912] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emilghj[/127.133.91.6:41669] logged in with entity id 216253 at (164.94448466888375, 64.0, 3627.7225608170734)
+[25Oct2025 01:25:22.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj joined the game
+[25Oct2025 01:25:52.741] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of emilghj (20)
+[25Oct2025 01:25:52.741] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to emilghj
+[25Oct2025 01:25:52.988] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emilghj lost connection: Timed out
+[25Oct2025 01:25:52.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj left the game
+[25Oct2025 01:25:52.988] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emilghj
+[25Oct2025 01:26:38.116] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quackisa lost connection: Disconnected
+[25Oct2025 01:26:38.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quackisa left the game
+[25Oct2025 01:26:38.116] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client quackisa
+[25Oct2025 01:26:38.130] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Disconnected
+[25Oct2025 01:26:38.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
+[25Oct2025 01:26:38.130] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
+[25Oct2025 01:27:04.087] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emilghj[/127.133.91.6:57631] logged in with entity id 216777 at (164.94448466888375, 64.0, 3627.7225608170734)
+[25Oct2025 01:27:04.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj joined the game
+[25Oct2025 01:27:25.647] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: quackisa[/127.82.80.15:48757] logged in with entity id 217064 at (727.3981445213591, -35.0, 3922.44726199201)
+[25Oct2025 01:27:25.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quackisa joined the game
+[25Oct2025 01:27:26.319] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of quackisa (20)
+[25Oct2025 01:27:26.319] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to quackisa
+[25Oct2025 01:27:34.043] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emilghj lost connection: Timed out
+[25Oct2025 01:27:34.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj left the game
+[25Oct2025 01:27:34.044] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emilghj
+[25Oct2025 01:27:36.435] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: megatuber06[/127.188.69.39:39235] logged in with entity id 217353 at (723.9661023981694, -35.0, 3924.6881792470763)
+[25Oct2025 01:27:36.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 joined the game
+[25Oct2025 01:27:36.835] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of megatuber06 (20)
+[25Oct2025 01:27:36.836] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
+[25Oct2025 01:28:04.605] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emilghj[/127.133.91.6:32957] logged in with entity id 217485 at (164.94448466888375, 64.0, 3627.7225608170734)
+[25Oct2025 01:28:04.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj joined the game
+[25Oct2025 01:28:34.994] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of emilghj (20)
+[25Oct2025 01:28:34.994] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to emilghj
+[25Oct2025 01:39:12.189] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quackisa lost connection: Timed out
+[25Oct2025 01:39:12.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quackisa left the game
+[25Oct2025 01:39:12.193] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client quackisa
+[25Oct2025 01:39:57.902] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: quackisa[/127.82.80.15:55635] logged in with entity id 221977 at (838.3966751765897, -30.0, 3965.300000011921)
+[25Oct2025 01:39:57.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quackisa joined the game
+[25Oct2025 01:39:58.237] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of quackisa (20)
+[25Oct2025 01:39:58.238] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to quackisa
+[25Oct2025 01:55:09.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quackisa> zarek
+[25Oct2025 01:55:29.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quackisa> de que parte de españa eras?
+[25Oct2025 01:55:32.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> huy te ejo en visto :o
+[25Oct2025 01:55:37.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quackisa> pregunta mi friend
+[25Oct2025 01:55:47.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> De q parte es el?
+[25Oct2025 01:56:34.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quackisa> de avila
+[25Oct2025 01:56:40.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> mu lejo
+[25Oct2025 01:56:40.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quackisa> pero vive en madrid ahora
+[25Oct2025 01:57:17.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> yo soy de madrid
+[25Oct2025 01:57:29.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> de hace cuanto el vive en madrid?
+[25Oct2025 01:57:33.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> es una chica o un chico
+[25Oct2025 01:57:36.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> ?
+[25Oct2025 01:58:28.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quackisa> que parte de madrid pregunta
+[25Oct2025 01:58:33.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quackisa> es chico
+[25Oct2025 01:58:33.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> aluche
+[25Oct2025 01:59:22.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> esta cabron
+[25Oct2025 01:59:34.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quackisa> el esta en mostoles
+[25Oct2025 02:00:06.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quackisa> que exploto?
+[25Oct2025 02:00:12.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> el culo de emil
+[25Oct2025 02:00:28.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> bro te voy a detonar por guarra
+[25Oct2025 02:00:33.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> oh Tt
+[25Oct2025 02:03:07.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quackisa> hay un enderman en la casa
+[25Oct2025 02:03:12.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> .....
+[25Oct2025 02:07:44.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quackisa has completed the challenge [The Family Sedan]
+[25Oct2025 02:07:52.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> huh
+[25Oct2025 02:09:53.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> isa tu estas ocupada
+[25Oct2025 02:09:58.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> ??
+[25Oct2025 02:10:01.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quackisa> organizando todo
+[25Oct2025 02:10:05.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> Tt
+[25Oct2025 02:17:30.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> duerman
+[25Oct2025 02:17:34.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quackisa> no
+[25Oct2025 02:17:47.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> o me dicen eso y la matop
+[25Oct2025 02:17:52.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> tu cree
+[25Oct2025 02:17:57.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quackisa> zzz
+[25Oct2025 02:18:12.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quackisa> duerman
+[25Oct2025 02:18:15.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> no
+[25Oct2025 02:19:00.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> zzz
+[25Oct2025 02:19:01.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> zzzz
+[25Oct2025 02:19:03.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> zzzzzzzzz
+[25Oct2025 02:19:04.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> zzzzzzzzzzz
+[25Oct2025 02:19:18.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> good boys
+[25Oct2025 02:22:32.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> necesito mi bufanda
+[25Oct2025 02:22:48.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> thx
+[25Oct2025 02:23:17.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quackisa> vamos al end?
+[25Oct2025 02:23:21.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> ahorita
+[25Oct2025 02:23:42.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> cuando vas a poder hablar
+[25Oct2025 02:24:41.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quackisa> bro
+[25Oct2025 02:24:47.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quackisa> trae al ajolote
+[25Oct2025 02:24:56.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> un grr pa ti
+[25Oct2025 02:25:00.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> lo perdi
+[25Oct2025 02:25:03.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> no te dije
+[25Oct2025 02:25:08.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> osea te dije
+[25Oct2025 02:25:10.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quackisa> ...
+[25Oct2025 02:25:11.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> no escuchaste
+[25Oct2025 02:25:16.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quackisa> no, no me dijiste
+[25Oct2025 02:27:41.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> tienes el sombrero?
+[25Oct2025 02:27:44.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> de pesca
+[25Oct2025 02:27:56.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quackisa> abajo
+[25Oct2025 02:29:12.683] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Disconnected
+[25Oct2025 02:29:12.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
+[25Oct2025 02:29:12.684] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
+[25Oct2025 02:29:17.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quackisa> q fue
+[25Oct2025 02:29:37.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> se quillo contigo
+[25Oct2025 02:30:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> nah el me dijo q te dijera eso pero el regresa
+[25Oct2025 02:34:37.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quackisa> zzz
+[25Oct2025 02:34:45.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> voy
+[25Oct2025 02:37:58.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> mi interneeeeeet
+[25Oct2025 02:38:11.557] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emilghj lost connection: Timed out
+[25Oct2025 02:38:11.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj left the game
+[25Oct2025 02:38:11.560] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emilghj
+[25Oct2025 02:38:42.536] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emilghj[/127.133.91.6:48743] logged in with entity id 238864 at (204.30000001192093, 67.0, 3633.145499609895)
+[25Oct2025 02:38:42.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj joined the game
+[25Oct2025 02:39:12.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emilghj lost connection: Timed out
+[25Oct2025 02:39:12.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj left the game
+[25Oct2025 02:39:12.401] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emilghj
+[25Oct2025 02:39:33.881] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quackisa lost connection: Timed out
+[25Oct2025 02:39:33.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quackisa left the game
+[25Oct2025 02:39:33.881] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client quackisa
+[25Oct2025 02:39:51.785] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emilghj[/127.133.91.6:39661] logged in with entity id 239037 at (204.30000001192093, 67.0, 3633.145499609895)
+[25Oct2025 02:39:51.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj joined the game
+[25Oct2025 02:40:14.252] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: quackisa[/127.82.80.15:36279] logged in with entity id 239373 at (147.07979380390023, 64.0, 3709.9612434828127)
+[25Oct2025 02:40:14.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quackisa joined the game
+[25Oct2025 02:40:14.658] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of quackisa (20)
+[25Oct2025 02:40:14.658] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to quackisa
+[25Oct2025 02:40:21.810] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of emilghj (20)
+[25Oct2025 02:40:21.810] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to emilghj
+[25Oct2025 02:40:25.491] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: megatuber06[/127.188.69.39:52893] logged in with entity id 239435 at (165.98716342968888, -4.0, 3607.0468872347474)
+[25Oct2025 02:40:25.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 joined the game
+[25Oct2025 02:40:25.803] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of megatuber06 (20)
+[25Oct2025 02:40:25.803] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
+[25Oct2025 02:40:38.784] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quackisa lost connection: Disconnected
+[25Oct2025 02:40:38.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quackisa left the game
+[25Oct2025 02:40:38.785] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client quackisa
+[25Oct2025 02:40:41.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> una barra de wifi
+[25Oct2025 02:40:49.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> yaa gg
+[25Oct2025 02:40:54.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> me va bien
+[25Oct2025 02:41:00.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> pq se fue?
+[25Oct2025 02:41:08.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> la saco
+[25Oct2025 02:41:20.735] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@53e7b49e[id=<null>,name=quackisa,properties={},legacy=false] (/127.82.80.15:52431) lost connection: Disconnected
+[25Oct2025 02:41:28.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> Tt
+[25Oct2025 02:41:33.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> entro ahora a llamada
+[25Oct2025 02:42:16.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> una barrita
+[25Oct2025 02:42:23.234] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2723e8a3[id=<null>,name=quackisa,properties={},legacy=false] (/127.82.80.15:58637) lost connection: Disconnected
+[25Oct2025 02:42:29.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> lol se te paso a ti
+[25Oct2025 02:43:07.237] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@78c61a19[id=<null>,name=quackisa,properties={},legacy=false] (/127.82.80.15:34299) lost connection: Disconnected
+[25Oct2025 02:44:02.484] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@408dd965[id=<null>,name=quackisa,properties={},legacy=false] (/127.82.80.15:32799) lost connection: Disconnected
+[25Oct2025 02:44:35.247] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: quackisa[/127.82.80.15:36165] logged in with entity id 240104 at (147.07979380390023, 64.0, 3709.9612434828127)
+[25Oct2025 02:44:35.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quackisa joined the game
+[25Oct2025 02:44:36.286] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of quackisa (20)
+[25Oct2025 02:44:36.286] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to quackisa
+[25Oct2025 02:45:10.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Timed out
+[25Oct2025 02:45:10.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
+[25Oct2025 02:45:10.987] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
+[25Oct2025 02:46:52.534] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emilghj lost connection: Timed out
+[25Oct2025 02:46:52.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj left the game
+[25Oct2025 02:46:52.535] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emilghj
+[25Oct2025 02:46:59.711] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: megatuber06[/127.188.69.39:59799] logged in with entity id 240564 at (153.57729174528575, -5.0, 3615.6319648354297)
+[25Oct2025 02:46:59.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 joined the game
+[25Oct2025 02:47:00.081] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of megatuber06 (20)
+[25Oct2025 02:47:00.081] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
+[25Oct2025 02:47:29.784] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Timed out
+[25Oct2025 02:47:29.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
+[25Oct2025 02:47:29.784] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
+[25Oct2025 02:47:32.244] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emilghj[/127.133.91.6:58245] logged in with entity id 240681 at (204.60310003503128, 63.75, 3630.824999988079)
+[25Oct2025 02:47:32.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj joined the game
+[25Oct2025 02:48:02.286] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of emilghj (20)
+[25Oct2025 02:48:02.286] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to emilghj
+[25Oct2025 02:48:18.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> ta cabron
+[25Oct2025 02:49:11.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> isa y ese wifi
+[25Oct2025 02:49:59.447] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: megatuber06[/127.188.69.39:35875] logged in with entity id 241239 at (153.57729174528575, -5.0, 3615.6319648354297)
+[25Oct2025 02:49:59.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 joined the game
+[25Oct2025 02:50:00.255] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of megatuber06 (20)
+[25Oct2025 02:50:00.255] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
+[25Oct2025 02:53:17.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emilghj lost connection: Timed out
+[25Oct2025 02:53:17.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj left the game
+[25Oct2025 02:53:17.809] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emilghj
+[25Oct2025 02:54:47.136] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@16f1bb4b[id=<null>,name=emilghj,properties={},legacy=false] (/127.133.91.6:46285) lost connection: Disconnected
+[25Oct2025 02:54:52.700] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emilghj[/127.133.91.6:42737] logged in with entity id 242438 at (204.61995682174515, 63.75, 3630.496361622276)
+[25Oct2025 02:54:52.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj joined the game
+[25Oct2025 02:55:22.885] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of emilghj (20)
+[25Oct2025 02:55:22.885] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to emilghj
+[25Oct2025 02:55:57.184] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emilghj lost connection: Disconnected
+[25Oct2025 02:55:57.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj left the game
+[25Oct2025 02:55:57.185] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emilghj
+[25Oct2025 02:57:21.998] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emilghj[/127.133.91.6:57699] logged in with entity id 242937 at (201.1241973658852, 63.0, 3630.3443528546154)
+[25Oct2025 02:57:22.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj joined the game
+[25Oct2025 02:57:52.151] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of emilghj (20)
+[25Oct2025 02:57:52.152] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to emilghj
+[25Oct2025 02:58:31.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> q fue
+[25Oct2025 02:58:48.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quackisa> zzz
+[25Oct2025 02:58:53.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> nah de eso
+[25Oct2025 02:59:25.878] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anubis_11[/127.64.5.250:34963] logged in with entity id 243399 at (-2393.927533536077, 68.0, 1226.5245070681674)
+[25Oct2025 02:59:25.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 joined the game
+[25Oct2025 02:59:26.679] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anubis_11 (20)
+[25Oct2025 02:59:26.680] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anubis_11
+[25Oct2025 03:01:24.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quackisa> duerman
+[25Oct2025 03:02:11.242] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 lost connection: Timed out
+[25Oct2025 03:02:11.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 left the game
+[25Oct2025 03:02:11.243] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anubis_11
+[25Oct2025 03:02:12.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> duerman perras
+[25Oct2025 03:02:31.151] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anubis_11[/127.64.5.250:34955] logged in with entity id 244505 at (-2393.7111997751554, 73.0, 1220.4231945894687)
+[25Oct2025 03:02:31.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 joined the game
+[25Oct2025 03:02:31.957] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anubis_11 (20)
+[25Oct2025 03:02:31.958] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anubis_11
+[25Oct2025 03:03:27.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quackisa> zzz
+[25Oct2025 03:03:33.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> zzzzzzzzzzzzzzzzz
+[25Oct2025 03:03:34.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> shhhhhh
+[25Oct2025 03:03:58.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quackisa> alguien puede hacer lamparas?
+[25Oct2025 03:04:03.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> voy
+[25Oct2025 03:06:09.951] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emilghj lost connection: You logged in from another location
+[25Oct2025 03:06:09.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj left the game
+[25Oct2025 03:06:09.971] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emilghj
+[25Oct2025 03:06:09.994] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emilghj[/127.198.188.67:56529] logged in with entity id 246046 at (210.1564540910105, 63.0, 3616.0451063277546)
+[25Oct2025 03:06:10.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj joined the game
+[25Oct2025 03:06:40.055] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of emilghj (20)
+[25Oct2025 03:06:40.055] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to emilghj
+[25Oct2025 03:07:22.517] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/87080, l='ServerLevel[world]', x=-1871.95, y=65.31, z=1617.43, removed=DISCARDED]
+[25Oct2025 03:08:34.027] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/250468, l='ServerLevel[world]', x=-639.50, y=32.00, z=2524.50]
+[25Oct2025 03:08:43.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> ok zarek te la encajo bro
+[25Oct2025 03:11:20.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 moved too quickly! 15.04355554567428,-3.3773239747634705,-8.493176359500467
+[25Oct2025 03:13:07.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> no
+[25Oct2025 03:15:30.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quackisa> zzzzz
+[25Oct2025 03:15:36.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> nah
+[25Oct2025 03:18:27.830] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emilghj lost connection: Disconnected
+[25Oct2025 03:18:27.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj left the game
+[25Oct2025 03:18:27.848] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emilghj
+[25Oct2025 03:21:47.940] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Timed out
+[25Oct2025 03:21:47.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
+[25Oct2025 03:21:47.942] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
+[25Oct2025 03:23:31.744] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@50b6af94[id=<null>,name=emilghj,properties={},legacy=false] (/127.198.188.67:57895) lost connection: Disconnected
+[25Oct2025 03:25:24.361] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: megatuber06[/127.188.69.39:59165] logged in with entity id 268478 at (150.6205522054494, -4.0, 3611.5)
+[25Oct2025 03:25:24.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 joined the game
+[25Oct2025 03:25:24.602] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of megatuber06 (20)
+[25Oct2025 03:25:24.602] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
+[25Oct2025 03:26:28.408] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quackisa lost connection: Disconnected
+[25Oct2025 03:26:28.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quackisa left the game
+[25Oct2025 03:26:28.408] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client quackisa
+[25Oct2025 03:26:28.425] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 lost connection: Disconnected
+[25Oct2025 03:26:28.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 left the game
+[25Oct2025 03:26:28.426] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anubis_11
+[25Oct2025 03:26:28.438] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Disconnected
+[25Oct2025 03:26:28.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
+[25Oct2025 03:26:28.439] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
+[25Oct2025 03:26:28.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Oct2025 03:26:28.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Oct2025 03:26:28.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Oct2025 03:26:28.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Oct2025 03:26:29.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Oct2025 03:26:29.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Oct2025 03:26:29.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Oct2025 03:26:29.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Oct2025 03:26:29.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Oct2025 03:26:29.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
